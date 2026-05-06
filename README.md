@@ -1,1 +1,1 @@
-# repo-receita
+# repo-receitas
