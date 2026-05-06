@@ -21,3 +21,7 @@ Modo de preparo
 
 -----------------------------------------------------------
 Categorias
+-Massas
+-Comida
+-Macarrão
+-Oriental
