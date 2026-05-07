@@ -25,6 +25,7 @@ Modo de preparo
 - Após esse tempo, adicione o tempero do miojo.
 - Misture bem com a colher até ficar homogêneo.
 - Adicione Pimenta.
+- Adicione ovo no preparo
 
 -----------------------------------------------------------
 Categorias
@@ -32,3 +33,10 @@ Categorias
 -Comida
 -Macarrão
 -Oriental
+
+-----------------------------------------------------------
+Tempo de preparo
+-Espere a água ferver
+-adicione o miojo
+-conte 3 minutos
+-apague o fogo
