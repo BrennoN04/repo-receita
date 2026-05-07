@@ -30,3 +30,10 @@ Categorias
 -Comida
 -Macarrão
 -Oriental
+
+-----------------------------------------------------------
+Tempo de preparo
+-Espere a água ferver
+-adicione o miojo
+-conte 3 minutos
+-apague o fogo
