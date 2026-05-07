@@ -1,17 +1,17 @@
 # Membros da Equipe 
 
-**Name: Breno Costa Cameplo Filho**
-**Mail: brenoccfilho@hotmail.com**  
-**Username: bcampelo**
+**Breno Costa Cameplo Filho**
+* Email: brenoccfilho@hotmail.com  
+* GitHub: bcampelo
 
 **Brenno Nunes da Silva Barros**
 * Email: brennons.06@gmail.com
 * GitHub: BrennoN04 
 
 **Murilo Nóbrega** 
-* email: murilonobrega@icloud.com 
+* Email: murilonobrega@icloud.com 
 * GitHub: murilonobrga
 
 **Marcus Vinícius Lima Freitas** 
--feijaomarcusvini@gmail.com 
--freitasmvl
+* Email: feijaomarcusvini@gmail.com 
+* GitHub: freitasmvl
