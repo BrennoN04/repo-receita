@@ -1,5 +1,5 @@
 # Membros da Esquipe
 
-**Murilo Nóbrega** 
+**Murilo Nobrega** 
 * email: murilonobrega@icloud.com 
 * GitHub: murilonobrga
